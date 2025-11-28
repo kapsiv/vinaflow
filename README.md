@@ -1,2 +1,2 @@
-# vinaflow
+# VinaFlow
 GUI wrapper for AutoDock Vina
